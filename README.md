@@ -327,6 +327,9 @@ See also [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#s
 - [Windows Secure Host Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Group Policy objects, compliance checks, and configuration tools that provide an automated and flexible approach for securely deploying and maintaining the latest releases of Windows 10.
 - [WMI Monitor](https://github.com/realparisi/WMI_Monitor) - Log newly created WMI consumers and processes to the Windows Application event log.
 
+# Other Awesome Lists & sources
+- [Blue Team Tools](https://securitytrails.com/blog/blue-team-tools)
+
 ## License
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
